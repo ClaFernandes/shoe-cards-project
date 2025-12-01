@@ -5,12 +5,6 @@ Cada card destaca uma categoria, com título, descrição e botão de ação par
 
 ---
 
-## 🖼️ Demonstração
-
-![Shoe Cards Preview](./demonstration/demonstration.png)  
-
----
-
 ## 🚀 Funcionalidades
 
 - Layout moderno e responsivo.  
